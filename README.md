@@ -17,21 +17,21 @@ This is Paytm clone, it is a part of Javascript web development bootcamp, Create
 
 ### My Project is looking like :
 
-![Web Site Image](./assets/p1.PNG)
-![Web Site Image](./assets/p2.PNG)
-![Web Site Image](./assets/p3.PNG)
-![Web Site Image](./assets/p4.PNG)
-![Web Site Image](./assets/p5.PNG)
-![Web Site Image](./assets/p6.PNG)
-![Web Site Image](./assets/p7.PNG)
-![Web Site Image](./assets/p8.PNG)
-![Web Site Image](./assets/p9.PNG)
-![Web Site Image](./assets/p10.PNG)
-![Web Site Image](./assets/p11.PNG)
-![Web Site Image](./assets/p12.PNG)
-![Web Site Image](./assets/p13.PNG)
-![Web Site Image](./assets/p14.PNG)
-![Web Site Image](./assets/p15.PNG)
+![Web Site Image](./Assets/p1.PNG)
+![Web Site Image](./Assets/p2.PNG)
+![Web Site Image](./Assets/p3.PNG)
+![Web Site Image](./Assets/p4.PNG)
+![Web Site Image](./Assets/p5.PNG)
+![Web Site Image](./Assets/p6.PNG)
+![Web Site Image](./Assets/p7.PNG)
+![Web Site Image](./Assets/p8.PNG)
+![Web Site Image](./Assets/p9.PNG)
+![Web Site Image](./Assets/p10.PNG)
+![Web Site Image](./Assets/p11.PNG)
+![Web Site Image](./Assets/p12.PNG)
+![Web Site Image](./Assets/p13.PNG)
+![Web Site Image](./Assets/p14.PNG)
+![Web Site Image](./Assets/p15.PNG)
 
 
 ### You can Check it Live on Below Link :
